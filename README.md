@@ -6,6 +6,12 @@ Goal: model container shipping routing trade-offs in the Mediterranean using **s
 
 > NDA note: no real vessel/company/route data. Ports are public (Natural Earth). Port time is a transparent proxy (placeholder) inspired by port efficiency concepts (planned: CPPI-based mapping).
 
+---
+
+## 🔗 Project Links
+
+* 📊 **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/oleksandr.skriabikov/viz/Skriabikov-Mediterranean_ports/Dashboard)** — Explore route sensitivity and cost modeling.
+* 🤝 **[Connect with me on LinkedIn](https://www.linkedin.com/in/askryabikov)** — For collaboration in maritime AI and logistics optimization.
 
 ---
 
